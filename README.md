@@ -1,5 +1,5 @@
-#Neural_staff  
+# Neural_staff  
 ---
-##Libraries  
+## Libraries  
 * 'pip install pandas' - library for works with tables(.csv)  
 ---
